@@ -1,0 +1,23 @@
+
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+.d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+div h1{
+    font-size: 150px;
+    font-weight: 500;
+    
+        font-family: "Bebas Neue", sans-serif;
+      
+      
+    color: green;
+}
